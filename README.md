@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at [AfroZeal Consultancy], Addis Ababa
 
-- 👨‍💻 All of my projects are available at [https://www.redwanjemal.dev](https://www.redwanjemal.dev)
+- 👨‍💻 All of my projects are available at [https://www.redwanjemal.dev](https://redwanjemal.dev)
 
 - 📝 I regularly write articles on [https://blog.redwanjemal.dev](https://blog.redwanjemal.dev)
 
